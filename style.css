@@ -5,3 +5,10 @@ body {
 p, ul {
 	pmargin-bottom: 10px;
 }
+h1 {
+	font-size:32px;
+}
+h3 {
+	font-size:18px;
+	margin-left:20px;
+}
